@@ -78,6 +78,7 @@ html, body {
 .book-button {
     display: inline-block;
     margin-top: 25px;
+    margin-bottom: 30px;
     padding: 14px 28px;
     background-color: #b76e79;
     color: white;
