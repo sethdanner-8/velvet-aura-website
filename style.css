@@ -270,7 +270,7 @@ html, body {
     border-radius: 2px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
     nav {
         padding: 20px;
         display: flex;
