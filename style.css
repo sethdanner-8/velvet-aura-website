@@ -332,9 +332,16 @@ html, body {
     .service-grid {
         grid-template-columns: 1fr;
         gap: 20px;
+        width:100%;
+        box-sizing: border-box;
     }
     .service-card {
         width: 100%;
+        box-sizing: border-box;
+    }
+    .services {
+        padding: 50px 20px;
+        box-sizing: border-box;
     }
     .about {
         flex-direction: column;
