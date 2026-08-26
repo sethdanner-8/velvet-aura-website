@@ -300,6 +300,8 @@ html, body {
     .menu-toggle {
         display: block;
         margin-left: auto;
+        font-size: 30px;
+        color: #bd6f7b;
     }
     .hero {
         flex-direction: column;
