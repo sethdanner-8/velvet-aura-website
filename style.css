@@ -13,10 +13,10 @@ nav a {
     position: relative;
     text-decoration: none;
     color: #6f5a63;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 500;
-    letter-spacing: 0.3px;
-    padding: 8px 4px;
+    letter-spacing: 0.4px;
+    padding: 10px 5px;
     transition: color 0.3s ease;
 }
 nav a::after {
@@ -47,6 +47,22 @@ nav .nav-book::after {
     display: none;
 }
 nav .nav-book:hover {
+    background: #c87388;
+    color: white;
+    transform: translateY(-2px);
+}
+.nav-links .nav-book {
+    background: #d98b9d;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 25;
+    margin-left: 8px;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+.nav-links .nav-book::after {
+    display: none;
+}
+.nav-links .nav-book:hover {
     background: #c87388;
     color: white;
     transform: translateY(-2px);
