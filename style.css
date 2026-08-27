@@ -141,6 +141,10 @@ nav .nav-book:hover {
     color: #6b4a53;
     max-width: 560px;
 }
+html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
 html, body {
     max-width: 100%;
     overflow-x: hidden;
