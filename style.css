@@ -59,8 +59,14 @@ nav a:hover::after {
 }
 .nav-links {
     display: flex;
-    gap: 40px;
+    gap: 32px;
     align-items: center;
+    background:rgba(255, 255, 255, 0.7);
+    padding: 12px 16px 12px 24px;
+    border: 1px solid rgba(217, 139, 157, 0.25);
+    border-radius: 50px;
+    box-shadow: 0 8px 30px rgba(74, 43, 51, 0.08);
+    backdrop-filter: blur(12px);
 }
 .nav-links a {
     text-decoration: none;
