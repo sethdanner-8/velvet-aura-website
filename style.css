@@ -85,7 +85,7 @@ nav a:hover::after {
     align-items: center;
     justify-content: space-between;
     padding: 40px 50px 80px;
-    gap: 60;
+    gap: 80;
 }
 .hero-inner {
     max-width: 1400px;
