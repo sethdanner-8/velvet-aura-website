@@ -102,9 +102,9 @@ nav a:hover::after {
     justify-content: center;
 }
 .hero-image img {
-    width: 550px;
+    width: 470px;
     max-width: 100%;
-    height: 560px;
+    height: 480px;
     object-fit: cover;
     border-radius: 28px;
     display: block;
