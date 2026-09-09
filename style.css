@@ -88,13 +88,14 @@ nav a:hover::after {
     gap: 80;
 }
 .hero-inner {
-    max-width: 1400px;
+    max-width: 1500px;
     margin: 0 auto;
-    min-height: 65vh;
+    min-height: 650px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 80px;
+    gap: 120px;
+    width: 90%
 }
 .hero-image {
     flex: 1;
