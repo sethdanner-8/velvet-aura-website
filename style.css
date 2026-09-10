@@ -440,6 +440,10 @@ html, body {
     }
 }
 @media (min-width: 1600px) {
+    .logo img {
+        width: 370px;
+        transform: translateX(-70px);
+    }
 
     .nav-container,
     .hero-inner {
