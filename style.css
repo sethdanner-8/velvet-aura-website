@@ -442,7 +442,7 @@ html, body {
 @media (min-width: 1600px) {
     .logo img {
         width: 370px;
-        transform: translateX(-95px);
+        transform: translateX(-125px);
     }
 
     .nav-container,
