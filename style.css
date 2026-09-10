@@ -93,7 +93,7 @@ nav a:hover::after {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 40px 50px 80px;
+    padding: 40px 0px 80px;
     gap: 80;
 }
 .hero-inner {
