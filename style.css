@@ -56,7 +56,6 @@ nav a:hover::after {
     width: 260px;
     height: auto;
     display: block;
-    transform: translateX(-35px);
 }
 .nav-links {
     display: flex;
