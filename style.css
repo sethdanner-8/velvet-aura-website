@@ -440,3 +440,33 @@ html, body {
         height: auto;
     }
 }
+@media (min-width: 1600px) {
+
+    .nav-container,
+    .hero-inner {
+        max-width: 1650px;
+        width: 88%;
+    }
+
+    .logo img {
+        width: 330px;
+    }
+
+    .hero h1 {
+        font-size: 112px;
+    }
+
+    .hero-description {
+        font-size: 23px;
+        max-width: 600px;
+    }
+
+    .hero-image img {
+        width: 520px;
+        height: 530px;
+    }
+
+    .hero-inner {
+        gap: 150px;
+    }
+}
