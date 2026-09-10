@@ -439,6 +439,33 @@ html, body {
         height: auto;
     }
 }
+@media (max-width: 1999px) {
+    .logo img {
+        width: 260px;
+        transform: none;
+    }
+    .hero h1 {
+        font-size: 88px;
+        line-height: 1.02;
+    }
+    .hero-small {
+        font-size: 15px;
+    }
+    .hero-description {
+        font-size: 21px;
+        max-width: 560px;
+    }
+    .hero-image img {
+        width: 470px;
+        height: 480px;
+    }
+    .hero-inner {
+        gap: 120px;
+    }
+    .nav-links a {
+        font-size: 16px;
+    }
+}
 @media (min-width: 2000px) {
     .logo img {
         width: 370px;
