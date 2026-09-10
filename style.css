@@ -442,16 +442,12 @@ html, body {
 @media (min-width: 1600px) {
     .logo img {
         width: 370px;
-        transform: translateX(-145px);
+        transform: none;
     }
-
     .nav-container,
     .hero-inner {
         max-width: 1750px;
         width: 90%;
-    }
-    .logo img {
-        width: 370px;
     }
     .hero h1 {
         font-size: 125px;
